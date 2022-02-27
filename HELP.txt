@@ -1,0 +1,88 @@
+
+
+		   ___                _                ___          _   
+		  / _ \ _  _ __ _ _ _| |_ _  _ _ __   |   \ ___  __| |__
+		 | (_) | || / _` | ' \  _| || | '  \  | |) / _ \/ _| / /
+		  \__\_\\_,_\__,_|_||_\__|\_,_|_|_|_| |___/\___/\__|_\_\
+                                                        
+
+                                                                       
+	 		~~~~~~~~~~~~ For RAINMETER ~~~~~~~~~~~~
+
+
+		     --- THIS SKIN IS CREATED BY NITESH-PRASAD ---
+
+
+===================================
+
+* Creator : Nitesh Prasad
+* Website: https://www.osbusters.net/
+* Deviantart: https://www.deviantart.com/nitesh-prasad
+
+===================================
+
+>>> How to Customise Quantum Dock?
+
+- The skin consists of icons. Each icon uses the following structure:
+
+[NAME]
+Meter=Image
+MeterStyle=Style
+ImageName="ICON"
+LeftMouseDoubleClickAction=[ACTION]
+MouseOverAction=[!SetOption #CURRENTSECTION# ImageName "ICON HOVER"][!UpdateMeter #CURRENTSECTION#][!Redraw]
+MouseLeaveAction=[!SetOption #CURRENTSECTION# ImageName "ICON"][!UpdateMeter #CURRENTSECTION#][!Redraw]
+
+- Explanation:
+
+NAME: Unique name of the meter. (It shouldn't be used again in the file!)
+
+ACTION: What should happen when the user clicks on the icon.
+
+ICON: Standard icon location. (Valid file types: png, jpg, bmp, gif, tif, ico)
+
+ICON HOVER: Hover icon location.
+
+- After editing the skin, right click on it and choose "Refresh" for the modifications to take action!
+- To edit the skin's settings, right click on it and choose "Settings..."!
+- You can find some preset icons located in "Quantum Dock\@Resources\Images"!
+
+
+- Some examples of [ACTION] :
+
+To open a webpage : ["https://www.google.com"]
+
+To start an application : ["C:\Program Files\Blender Foundation\Blender 3.0\blender-launcher.exe"]
+
+Start windows settings : ["ms-settings:home"]  (for more info: https://forum.rainmeter.net/viewtopic.php?t=22613)
+
+Control Panel: ["Control"]
+
+This PC/ My Computer : [Shell:::{20D04FE0-3AEA-1069-A2D8-08002B30309D}]
+
+Recycle Bin : [Shell:::{645FF040-5081-101B-9F08-00AA002F954E}]
+
+Downloads : [Shell:::{374DE290-123F-4565-9164-39C4925E467B}]
+
+Documents : [Shell:::{A8CDFF1C-4878-43be-B5FD-F8091C1C60D0}]
+
+Pictures : [Shell:::{3ADD1653-EB32-4cb0-BBD7-DFA0ABB5ACCA}]
+
+Music : [Shell:::{1CF1260C-4DD0-4ebb-811F-33C572699FDE}]
+
+For more codes visit: https://docs.rainmeter.net/tips/launching-windows-special-folders/
+
+
+=======================================
+
+
+--- CREDITS ---
+
+- Baleg00 (https://www.deviantart.com/baleg00) for Material Taskbar
+
+--- CREATIVE COMMONS ---
+- Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+--- USED SOFTWARES ---
+- Notepad++ (https://notepad-plus-plus.org/)
+- Inkscape (https://inkscape.org/)
