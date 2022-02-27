@@ -10,8 +10,8 @@ Best dock/launcher skin for Rainmeter. Lightweight with modern design. Highly cu
 
 🌐 Official Product Page: <https://www.osbusters.net/2022/02/quantum-dock-rainmeter.html>
 
-![YouTube](https://img.shields.io/badge/osbusters-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Twitter](https://img.shields.io/badge/osbustersblog-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Instagram](https://img.shields.io/badge/osbustersblog-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![YouTube](https://img.shields.io/badge/osbusters-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/osbusters) [![Twitter](https://img.shields.io/badge/osbustersblog-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/osbustersblog) [![Instagram](https://img.shields.io/badge/osbustersblog-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/osbustersblog)
+
 
 ## Features of Quantum Dock
 - Modern Design
@@ -103,7 +103,7 @@ Special thanks to Baleg00 for [Material Taskbar](https://www.deviantart.com/bale
 Special thanks to @Kaelri for [RainRGB](https://github.com/Kaelri/Enigma/tree/master/Skins/Enigma/@Resources/Addons/RainRGB)
 
 
-## Screenshots
+## 📷 Screenshots
 
 ![Quantum Dock Screenshot 1](https://blogger.googleusercontent.com/img/a/AVvXsEgLHo5oFCuI9nniIl4ihVc7BiKy_vM7bvN5hH0SB3UyRK6JNDeGKAzrDxiOCNrpzS9vNQt_1bm3-tBNNxh6XP_p9s43QF-8iCWRtExTzhTYWE0VY3jXHmhjBVLzgMgEiZxgMkDsAHjoxQ5W4-vIQlt88CEOJoxnIfK0vOKJjRmjTXGHhS8CCftxr0sITQ=s16000)
 ![Quantum Dock Screenshot 2](https://blogger.googleusercontent.com/img/a/AVvXsEgmTLHteuuFx3Ju61AxmfwnHgEec2kgHoNJSi-u9fRiudiwP8K-Y1_62JJi_LiL_WgKL6Uf8Ftl_384kWFNa-HZ_VV7zOc2soPFaiE2FkHJCuKDgIAsZ4nzwFdPsiPFLgDjmfd6_Ug20NdW5LgD40inTLZ7tHltF7MmmahjJbFm7cJX3F1sAnAbPaiXkw=s16000)
