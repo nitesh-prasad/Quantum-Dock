@@ -2,7 +2,7 @@
 
 Introducing Quantum Dock for Rainmeter. The most customizable, light-weight feature feature-rich dock for Windows PC.
 
-![Windows](https://img.shields.io/badge/Windows-117DD1?style=flat&logo=windows) ![Rainmeter](https://img.shields.io/badge/Rainmeter-4.5%20or%20greater-009B72?style=flat&logo=Rainmeter)
+![Windows](https://img.shields.io/badge/Windows-117DD1?style=for-the-badge&logo=windows) ![Rainmeter](https://img.shields.io/badge/Rainmeter-4.5%20or%20greater-009B72?style=for-the-badge&logo=Rainmeter) [![Downloads](https://img.shields.io/github/downloads/nitesh-prasad/Quantum-Dock/total?style=for-the-badge)](https://niteshprasad.gumroad.com/l/quantum-dock) 
 
 ![Quantum Dock](https://blogger.googleusercontent.com/img/a/AVvXsEh3GAvXppOA24ca1B6Nz8SHjI_yRp1DA59R77WEGYkNfcKHYmf_FYyK4yyQzUcut8eJh3EJVWAX9UwvZOvFGRoYEr6kTAHFWONNbBsvXzFOpR6t8snRF9-uEEEGkOLvEYvz8tal50OpolxhU2pQbABfIl68JdrcZbUnhJC0iV2HOKRsH_uJ70gmrd9V8w=s16000)
 
@@ -11,6 +11,13 @@ Best dock/launcher skin for Rainmeter. Lightweight with modern design. Highly cu
 🌐 Official Product Page: <https://www.osbusters.net/2022/02/quantum-dock-rainmeter.html>
 
 [![YouTube](https://img.shields.io/badge/osbusters-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/osbusters) [![Twitter](https://img.shields.io/badge/osbustersblog-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/osbustersblog) [![Instagram](https://img.shields.io/badge/osbustersblog-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/osbustersblog)
+
+## Download
+
+Download the full version of **Quantum Dock**:
+
+[![Download](https://img.shields.io/badge/Free-DOWNLOAD-brightgreen?style=for-the-badge&logo=gumroad)](https://niteshprasad.gumroad.com/l/quantum-dock)
+
 
 
 ## Features of Quantum Dock
